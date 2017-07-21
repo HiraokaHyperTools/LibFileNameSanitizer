@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>kenjiuno</authors>
+    <owners>$author$</owners>
+    <projectUrl>https://github.com/HiraokaHyperTools/LibFileNameSanitizer</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>First release.</releaseNotes>
+    <copyright>Copyright 2017 HIRAOKA HYPER TOOLS, Inc.</copyright>
+    <tags>FileName Sanitization</tags>
+  </metadata>
+</package>
