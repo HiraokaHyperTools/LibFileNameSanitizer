@@ -1,2 +1,2 @@
-\DL\nuget pack LibFileNameSanitizer.csproj -Build -Properties Configuration=Release
+nuget pack LibFileNameSanitizer.csproj -Build -Properties Configuration=Release
 pause

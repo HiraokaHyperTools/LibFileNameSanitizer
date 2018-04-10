@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // アセンブリに関連付けられている情報を変更するには、
 // これらの属性値を変更してください。
 [assembly: AssemblyTitle("LibFileNameSanitizer")]
-[assembly: AssemblyDescription("Sanitize text for Filenames")]
+[assembly: AssemblyDescription("Sanitize text suitable for Filenames")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("HIRAOKA HYPERS TOOLS, Inc.")]
 [assembly: AssemblyProduct("LibFileNameSanitizer")]
@@ -32,5 +32,5 @@ using System.Runtime.InteropServices;
 // すべての値を指定するか、下のように '*' を使ってビルドおよびリビジョン番号を 
 // 既定値にすることができます:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly:     AssemblyVersion("0.1")]//here
-[assembly: AssemblyFileVersion("0.1")]//here
+[assembly:     AssemblyVersion("0.2")]//here
+[assembly: AssemblyFileVersion("0.2")]//here
